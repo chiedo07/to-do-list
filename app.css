@@ -20,7 +20,7 @@ ul li{
     transition:0.2s;
 }
 ul li:nth-child(odd){
-    background: #f9f9f2;
+    background: grey;
 }
 ul li:hover{
     background-color: #888;
@@ -48,4 +48,5 @@ ul li .check::before {
     padding-right:90px;
     float:right;
     color: rgb(236, 30, 30);
+    cursor: pointer;
   }
