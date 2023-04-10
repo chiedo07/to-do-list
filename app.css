@@ -1,9 +1,4 @@
-.selector-for-some-widget {
-    box-sizing: content-box;
-  }
-  *{
-    box-sizing: border-box;
-  }
+
   ul{
     margin:0;
     padding:0;
